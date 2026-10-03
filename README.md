@@ -5,3 +5,7 @@ Skill: Learning Python
 Interest: Cloud Computing
 
 Goal: Contribute to Open Source
+
+## Projects
+
+I am working on a Crime Data Analysis and Visualization project using Python and data analysis techniques. I am also practicing C programming and building my coding skills through GitHub and LeetCode.
